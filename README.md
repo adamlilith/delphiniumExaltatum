@@ -1,1 +1,3 @@
 # delphiniumExaltatum
+
+This code supports an analysis lead by Rebecca Mohn et al. (in prep.) on the historical biogeography of Delphinium exaltatum, an endangered plant in the eastern United States. Specifically, this code constructs several sets of ecological niche models (ENMs) and hindcasts them to the last glacial maximum, ~21 Kypb. The output is a series of suitability maps spaced every 500 yr across this period.  The maps can be used to infer the timing of genetic divergence between now-disjunct populations, as well as the location of putative refugia.
