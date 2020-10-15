@@ -1,7 +1,7 @@
 ### DELPHINIUM EXALTATUM ECOLOGIAL NICHE MODELING
 ### Adam B. Smith | Missouri Botanical Garden | adamDOTsmithATmobotDOTorg | 2018-07
 ###
-### source('C:/Ecology/Drive/Research/Delphinium exaltatum (Christy Edwards)/delphiniumExaltatum/Delphinium Version Pre-submission.r')
+### source('C:/Ecology/Drive/Research/Delphinium exaltatum (Christy Edwards)/delphiniumExaltatum/Delphinium 00 Pre-submission.r')
 
 	rm(list=ls())
 	memory.limit(memory.limit() * 2^30)
